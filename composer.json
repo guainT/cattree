@@ -15,6 +15,9 @@
     "require": {
 	"php": ">=5.3.0"
     },
+    "require-dev": {
+        "phpunit/phpunit": "@stable"
+    },
     "autoload": {
 	 "psr-4": {
             "guainttt\\cattree\\": "src/"
