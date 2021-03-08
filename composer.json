@@ -1,0 +1,13 @@
+{
+    "name": "lmonkey/cattree2",
+    "description": "无限级分类",
+    "keywords": ["lmonkey",'无限级分类'],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ttt",
+            "email": "455491066@qq.com"
+        }
+    ],
+    "require": {}
+}
