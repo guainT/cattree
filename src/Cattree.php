@@ -11,7 +11,7 @@
  * $Author: 高洛峰 (g@lmonkey.com) $                                                *
  * $Date: 2019-11-20 10:00:00 $                                                  *
  * *******************************************************************************/
-namespace guainT\cattree;
+namespace guainttt\cattree;
 
 class CateTree {
     private static $order = 'ord';  //有排序字段和表的对应，如果没有这个字段可以不写
