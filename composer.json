@@ -1,8 +1,8 @@
 {
     "name": "guainttt/cattree",
-    "description": "无限级分类",
+    "description": "无限级分类。https://github.com/guainttt/cattree",
     "keywords": ["lmonkey","cattree","guainttt"],
-    "homepage": "http://github.com/guainttt/cattree",
+    "homepage": "https://github.com/guainttt/cattree",
     "type": "library",
     "license": "MIT",
     "authors": [
